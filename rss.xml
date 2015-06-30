@@ -195,5 +195,12 @@
    			<dc:creator><![CDATA[Iciql]]></dc:creator>
     		<pubDate>Mon, 29 Jun 2015 00:00:00 -0400</pubDate>
   		</item>
+  		<item>
+    		<title><![CDATA[Iciql 1.6.4 released]]></title>
+    		<link><![CDATA[http://iciql.com/releases.html#1.6.4]]></link>
+    		<guid isPermaLink="true">http://iciql.com/releases.html#1.6.4</guid>
+   			<dc:creator><![CDATA[Iciql]]></dc:creator>
+    		<pubDate>Tue, 30 Jun 2015 00:00:00 -0400</pubDate>
+  		</item>
   	</channel>
 </rss>
